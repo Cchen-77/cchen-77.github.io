@@ -6,7 +6,7 @@ pub:            "ACM Transactions on Graphics (Proceedings of SIGGRAPH 2026)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2026"
+# pub_date:       "2026"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
  Reducing the number of marching points using stratified Bernoulli impulses, which enables fast bound lookup before evaluating the full noise, with a sparse voxel tree to reduce bound evaluations.
