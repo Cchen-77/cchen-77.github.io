@@ -19,5 +19,5 @@ authors:
 links:
   Code: https://github.com/Cchen-77/bounded-gpis
   Paper: /assets/papers/bounded-gpis.pdf
-  Project: /_projects/bounded-gpis
+  Project: /projects/bounded-gpis
 ---
